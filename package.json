@@ -1,0 +1,23 @@
+{
+  "name": "qn-fibjs",
+  "version": "0.0.1",
+  "description": "qiniu API client for fib.js",
+  "keywords": ["qiniu", "qn", "fibjs", ""],
+  "homepage": "http://hirube.com",
+  "bugs": {
+    "url": "http://github.com/Hi-Rube/qn-fibjs/issues",
+    "email": "353371737@qq.com"
+  },
+  "license": "MIT",
+  "author": [
+    {
+      "name": "Rube",
+      "url": "http://hirube.com",
+      "email": "353371737@qq.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Hi-Rube/qn-fibjs"
+  }
+}
