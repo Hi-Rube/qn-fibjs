@@ -3,7 +3,7 @@ qn-fibjs
 qiniu API client for fib.js.
 ![fibjs](http://fibjs.org/logo.png)
 #Usage
-**First, u should download the [fibjs](http://fibjs.org/)**
+**First, u should download the [fibjs](http://fibjs.org/), then move the .modules folder**
 
 ##Upload
 
